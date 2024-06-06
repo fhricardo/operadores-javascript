@@ -21,14 +21,16 @@
 `**` **exponenciação**  
 
 **NOTA:**
-O operador aritmético `+` também é o **operador de concatenação** para variáveis de tipos diferentes *(números e strings)* e para strings
-Exemplo:
+O operador aritmético `+` também é o **operador de concatenação** para variáveis de tipos diferentes *(números e strings)* e para strings.  
+  
+Exemplo:  
 `var numero = 1`  
 `var texto = 'bola'`  
 `texto + numero`  
 `//resultado = bola1`  
 Para compor frases utilizando concatenação, podemos utiulizar trechos de texos entre aspas (simples ou duplas).  
-Exemplo:
+  
+Exemplo:  
 `var numero = 1`  
 `var texto = 'bola'`  
 `var frase = 'Eu comprei ' + numero + ' ' + texto + ' nova'`  
